@@ -1,0 +1,3 @@
+- this is an intro html project to advance my web dev skills
+- when i am done i will know how to create a basic web page
+- if you see README2.md that means i'm done! 
